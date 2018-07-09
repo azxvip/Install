@@ -11,7 +11,7 @@ insert a link:
 https://github.com/azxvip/Install/blob/master/Install/TeleWeb.iss#L11
 
 '''
-for (int i=0; i<5; i++)
+for (int i=0; i<6; i++)
 {
   j++;
 }
