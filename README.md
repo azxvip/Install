@@ -7,3 +7,12 @@ A installation project of innosetup.
 ## Release 1.1
 @2017-12-27 16:07
 
+insert a link:
+https://github.com/azxvip/Install/blob/master/Install/TeleWeb.iss#L11
+
+'''
+for (int i=0; i<5; i++)
+{
+  j++;
+}
+'''
