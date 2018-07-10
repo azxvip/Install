@@ -4,8 +4,8 @@
 ; Create on Inno Setup Compiler 5.1.6
 
 [Setup]
-AppName=TeleWeb
-AppVerName=TeleWeb MTK_SP
+AppName=T
+AppVerName=T
 DefaultDirName={pf}\TeleWeb MTK_SP 3.4.7
 DefaultGroupName=TeleWeb MTK_SP 3.4.7
 UninstallDisplayIcon={app}\TeleWeb.exe
